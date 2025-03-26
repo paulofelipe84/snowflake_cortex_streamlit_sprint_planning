@@ -37,8 +37,8 @@ The Agile Sprint Planning application provides an intuitive, interactive interfa
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/agile-sprint-cortex.git
-cd agile-sprint-cortex
+git clone https://github.com/paulofelipe84/snowflake_cortex_streamlit_sprint_planning.git
+cd snowflake_cortex_streamlit_sprint_planning
 ```
 
 2. Create a new Streamlit App in your Snowflake account
